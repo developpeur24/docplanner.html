@@ -1,0 +1,97 @@
+.navbar {
+    display: inline-flex;
+}
+
+.lien {
+    /* padding: 50px; */
+    margin-left: 400px;
+    margin-top: 15px;
+}
+
+.logo {
+    margin-left: 125px;
+}
+
+.lien a {
+    text-decoration: none;
+    color: rgb(176, 176, 176);
+    padding: 15px;
+}
+
+.texte1 {
+    text-align: center;
+    color: rgb(0, 195, 165);
+
+}
+
+.logo {
+    text-align: center;
+}
+
+.paragraphe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para1 {
+    margin: 25px;
+}
+
+.par1 {
+    margin-left: 250px;
+}
+
+.par2 {
+    margin-right: 250px;
+}
+
+.flexy {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Work sans";
+    font-weight: unset;
+}
+.info_{
+    padding: 30px;
+    
+}
+
+.For_patients {
+    background-color: rgb(0, 195, 165);
+    color: white;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 185px;
+}
+
+.For_doctors {
+    background-color: #3d83df;
+    color: white;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.For_clinics {
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    margin-right: 185px;
+}
+footer{
+    margin-top: 100px;
+    border-top: 1px solid grey;
+}
+.section__inner{
+text-align: center;
+}
+.domain-switcher{
+    margin-top: 25px;
+}
+.style-select{
+    margin-top: 25px;
+}
